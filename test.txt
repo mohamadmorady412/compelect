@@ -1,1 +1,0 @@
-fastapin uvicornn flaskn httpxn sqlAlchemyn
